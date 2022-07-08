@@ -23,4 +23,5 @@ Focus on average daily rate and guests to explore seasonality.
 <h3> Dashboards image </h3>
 <h4> This is an <strong> interactive </strong> dashboard, you can download it from my repo it's called "
 Hotel Data Analysis.pbix" </h4>  
-![visualize](https://user-images.githubusercontent.com/92683172/178048799-ee0ee3fa-8ac4-41f1-8fac-a675c9a67302.png)
+
+![visualize](https://user-images.githubusercontent.com/92683172/178049668-0d586ee9-cfbb-4ce8-adbb-f7ab1183bbe3.png)
