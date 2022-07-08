@@ -3,7 +3,7 @@ Here I developed a data analyst project using hotel booking data that I sourced 
 The database was connected to Power BI to answer some business questions and have a visual product in the end. 
 
 <br>
-<h3> Stakeholders questions that need to be answered: </h3>
+<h3> Stakeholder's questions that need to be answered: </h3>
 <li> <h5> " Is our hotel revenue growing over the year? "</h5>
 We have two hotel types so it would be good to segment revenue by hotel type. 
 <li> <h5> " Should we increase our parking lot size? " </h5> 
@@ -21,7 +21,7 @@ Focus on average daily rate and guests to explore seasonality.
 
 
 <h3> Dashboards image </h3>
-<h4> This is an <strong> interactive </strong> dashboard, you can download it from my repo it's called "
+<h4> This is an <strong> interactive </strong> dashboard, you can download it from my repo, it's called "
 Hotel Data Analysis.pbix" </h4>  
 
 ![visualize](https://user-images.githubusercontent.com/92683172/178049668-0d586ee9-cfbb-4ce8-adbb-f7ab1183bbe3.png)
