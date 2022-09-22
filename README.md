@@ -17,7 +17,6 @@ Focus on average daily rate and guests to explore seasonality.
 <li> Develop the SQL Query: queries are attached to the repo. 
 <li> Connect Power BI to the Database
 <li> Visualize
-<li> Summarize Findings. 
 
 
 <h3> Dashboards image </h3>
